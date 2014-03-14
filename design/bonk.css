@@ -1,0 +1,28 @@
+   
+#Body {
+margin:0 auto;
+color: white;
+background:transparent!important;
+width:100%;
+} 
+   
+#Content {
+width: 98%!important;
+margin: 0 auto;
+float: none;
+}
+#Panel{
+display:none!important;
+}
+
+    
+#Foot {
+background:none transparent!important;
+}
+
+h16{
+	font-size:20px;
+	font-weight:bold;
+	color:#000;
+	text-shadow:0 1px 0 #fff;
+}
